@@ -2,9 +2,7 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-Im in the process of building an enviornment in the Unreal Engine editor.
+Im in the process of building an environment in the Unreal Engine editor. This involves sculpting the landscape, painting foliage, and more. My personal favorite part was the sculpting, as you can be as free as you want with it.
 
 I want to go into game development, and getting a good foundation in a game editor such as Unreal Engine is great.
 
